@@ -321,7 +321,7 @@
   display: block;
   margin-top: 3rem;
   margin-bottom: 1rem;
-  color: #2aaae7;
+  color: #0555c6;
   letter-spacing: 0.01em;
   font-weight: 700;
   font-style: normal;
@@ -483,13 +483,13 @@ body {
   background-repeat: repeat-x;
 }
 .content a:hover {
-  background-image: linear-gradient(transparent, transparent 4px, #2bbc8a 4px, #2bbc8a);
+  background-image: linear-gradient(transparent, transparent 4px, #0555c6 4px, #0555c6);
 }
 .content a.icon {
   background: none;
 }
 .content a.icon:hover {
-  color: #2bbc8a;
+  color: #0555c6;
 }
 .content h1 a,
 .content .h1 a,
@@ -509,7 +509,7 @@ body {
 .content h4 a:hover,
 .content h5 a:hover,
 .content h6 a:hover {
-  background-image: linear-gradient(transparent, transparent 6px, #2bbc8a 6px, #2bbc8a);
+  background-image: linear-gradient(transparent, transparent 6px, #0555c6 6px, #0555c6);
   background-position: bottom;
   background-size: 100% 6px;
   background-repeat: repeat-x;
@@ -520,7 +520,7 @@ body {
   text-decoration: none;
 }
 .content h6 a:hover {
-  background-image: linear-gradient(transparent, transparent 6px, #2bbc8a 6px, #2bbc8a);
+  background-image: linear-gradient(transparent, transparent 6px, #0555c6 6px, #0555c6);
   background-position: bottom;
   background-size: 100% 6px;
   background-repeat: repeat-x;
@@ -582,14 +582,13 @@ body {
   display: inline-block;
   float: left;
   margin-right: 20px;
-  width: 50px;
-  height: 50px;
+  width: 100px;
+  height: 73px;
   border-radius: 5px;
-  background-size: 50px 50px;
   background-repeat: no-repeat;
 }
 #header #nav {
-  color: #2aaae7;
+  color: #0555c6;
   letter-spacing: 0.01em;
   font-weight: 200;
   font-style: normal;
@@ -606,7 +605,7 @@ body {
   color: color-accent-1;
 }
 #header #nav ul a:hover {
-  background-image: linear-gradient(transparent, transparent 5px, #2aaae7 5px, #2aaae7);
+  background-image: linear-gradient(transparent, transparent 5px, #0555c6 5px, #0555c6);
   background-position: bottom;
   background-size: 100% 6px;
   background-repeat: repeat-x;
@@ -614,7 +613,7 @@ body {
 #header #nav ul li {
   display: inline-block;
   margin-right: 15px;
-  border-right: 1px dotted #2aaae7;
+  border-right: 1px dotted #0555c6;
   vertical-align: middle;
 }
 #header #nav ul .icon {
@@ -679,7 +678,7 @@ body {
   background: none;
 }
 #header-post a.icon:hover {
-  color: #2bbc8a;
+  color: #0555c6;
 }
 #header-post ol {
   list-style-type: none;
@@ -704,7 +703,7 @@ body {
   margin-left: 15px;
 }
 #header-post #menu-icon:hover {
-  color: #2aaae7;
+  color: #0555c6;
 }
 #header-post #menu-icon-tablet {
   float: right;
@@ -712,7 +711,7 @@ body {
   margin-left: 15px;
 }
 #header-post #menu-icon-tablet:hover {
-  color: #2aaae7;
+  color: #0555c6;
 }
 #header-post #top-icon-tablet {
   position: fixed;
@@ -722,17 +721,17 @@ body {
   margin-left: 15px;
 }
 #header-post #top-icon-tablet:hover {
-  color: #2aaae7;
+  color: #0555c6;
 }
 #header-post .active {
-  color: #2aaae7;
+  color: #0555c6;
 }
 #header-post #menu {
   visibility: hidden;
   margin-right: 2rem;
 }
 #header-post #nav {
-  color: #2aaae7;
+  color: #0555c6;
   letter-spacing: 0.01em;
   font-weight: 200;
   font-style: normal;
@@ -746,13 +745,13 @@ body {
   color: color-accent-1;
 }
 #header-post #nav ul a:hover {
-  background-image: linear-gradient(transparent, transparent 5px, #2aaae7 5px, #2aaae7);
+  background-image: linear-gradient(transparent, transparent 5px, #0555c6 5px, #0555c6);
   background-position: bottom;
   background-size: 100% 6px;
   background-repeat: repeat-x;
 }
 #header-post #nav ul li {
-  border-right: 1px dotted #2aaae7;
+  border-right: 1px dotted #0555c6;
 }
 #header-post #nav ul li:last-child {
   margin-right: 0;
@@ -796,7 +795,7 @@ body {
   text-align: right;
 }
 #header-post #toc a:hover {
-  color: #2bbc8a;
+  color: #0555c6;
 }
 #header-post #toc .toc-level-1 > .toc-link {
   display: none;
@@ -806,7 +805,7 @@ body {
   font-size: 0.8rem;
 }
 #header-post #toc .toc-level-2:before {
-  color: #2aaae7;
+  color: #0555c6;
   content: "#";
 }
 #header-post #toc .toc-level-3 {
@@ -887,7 +886,7 @@ body {
   background: none;
 }
 #footer-post a.icon:hover {
-  color: #2bbc8a;
+  color: #0555c6;
 }
 #footer-post #nav-footer {
   padding-right: 1rem;
@@ -896,11 +895,11 @@ body {
   text-align: center;
 }
 #footer-post #nav-footer a {
-  color: #2aaae7;
+  color: #0555c6;
   font-size: 1em;
 }
 #footer-post #nav-footer a:hover {
-  background-image: linear-gradient(transparent, transparent 5px, #2aaae7 5px, #2aaae7);
+  background-image: linear-gradient(transparent, transparent 5px, #0555c6 5px, #0555c6);
   background-position: bottom;
   background-size: 100% 6px;
   background-repeat: repeat-x;
@@ -931,7 +930,7 @@ body {
 #footer-post #actions-footer a {
   display: inline-block;
   padding-left: 1rem;
-  color: #2aaae7;
+  color: #0555c6;
 }
 #footer-post #share-footer {
   padding-right: 1rem;
@@ -968,7 +967,7 @@ body {
   line-height: 30px;
 }
 #footer-post #toc-footer a:hover {
-  color: #2bbc8a;
+  color: #0555c6;
 }
 #footer-post #toc-footer .toc-level-1 > .toc-link {
   display: none;
@@ -978,7 +977,7 @@ body {
   font-size: 0.8rem;
 }
 #footer-post #toc-footer .toc-level-2:before {
-  color: #2aaae7;
+  color: #0555c6;
   content: "#";
 }
 #footer-post #toc-footer .toc-level-3 {
@@ -1064,7 +1063,7 @@ article .content h2:before {
   position: absolute;
   top: -4px;
   left: -1rem;
-  color: #2aaae7;
+  color: #0555c6;
   content: "#";
   font-weight: bold;
   font-size: 1.2rem;
@@ -1155,7 +1154,7 @@ article .content .caption {
   line-height: 1.25;
 }
 .article-tag .tag-link {
-  background-image: linear-gradient(transparent, transparent 10px, #2bbc8a 10px, #2bbc8a);
+  background-image: linear-gradient(transparent, transparent 10px, #0555c6 10px, #0555c6);
   background-position: bottom;
   background-size: 100% 6px;
   background-repeat: repeat-x;
@@ -1291,7 +1290,7 @@ article .content .caption {
   -moz-border-radius: 5px;
 }
 .search-input:focus {
-  border: solid 1px #2aaae7;
+  border: solid 1px #0555c6;
 }
 #search-result ul.search-result-list {
   padding: 0;
@@ -1315,8 +1314,8 @@ article .content .caption {
   font-size: 0.8em;
 }
 #search-result em.search-keyword {
-  border-bottom: 1px dashed #2bbc8a;
-  color: #2bbc8a;
+  border-bottom: 1px dashed #0555c6;
+  color: #0555c6;
   font-weight: bold;
 }
 .search-no-result {
@@ -1440,7 +1439,7 @@ code {
   color: #757575;
   font-style: italic;
   font-size: 0.8em;
-  background-image: linear-gradient(transparent, transparent 10px, #2bbc8a 10px, #2bbc8a);
+  background-image: linear-gradient(transparent, transparent 10px, #0555c6 10px, #0555c6);
   background-position: bottom;
   background-size: 100% 6px;
   background-repeat: repeat-x;
